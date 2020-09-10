@@ -3,6 +3,8 @@
     width: 300px;
     background-color: yellow;
     display: inline-block;
+    margin-bottom: 20px;
+    margin-left: 20px;
 
 }
 
@@ -11,7 +13,7 @@
     width: 300px;
     background-color: red;
     display: inline-block;
-    margin-left: 150px;
+    margin-left: 20px;
 
 }
 .caja3{
@@ -19,6 +21,8 @@
     width: 300px;
     background-color: aqua;
     display: inline-block;
+    margin-bottom: 20px;
+    margin-left: 20px;
     
 }
 .caja4{
@@ -26,6 +30,29 @@
     width: 300px;
     background-color: violet;
     display: inline-block;
-    margin-left: 150px;
-    
+    margin-left: 20px;
 }
+.caja5{
+    height: 300px;
+    width: 300px;
+    background-color:green;
+    position:static;
+    left: 20px;
+    bottom: 20px;
+}
+.goku{
+    height: 600px;
+    width: 600px;
+    background-color:blue;
+    position: relative;
+}
+.gohan{
+    height: 300px;
+    width: 500px;
+    background-color:burlywood;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+
+}
+
