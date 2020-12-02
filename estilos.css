@@ -45,6 +45,7 @@
     width: 600px;
     background-color:blue;
     position: relative;
+    padding-right: 40px;
 }
 .gohan{
     height: 300px;
